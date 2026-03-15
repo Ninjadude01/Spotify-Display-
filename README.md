@@ -5,4 +5,3 @@ My project is a spotify display, where you can skip songs, pause/play, and go to
 Here is the step file: https://github.com/Ninjadude01/Spotify-Display-/releases/download/Tag/Spotify.Display.Case.File.step
 
 
-![Alt text] (Screenshot 2026-03-14 152826.png)
