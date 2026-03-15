@@ -4,8 +4,7 @@ My project is a spotify display, where you can skip songs, pause/play, and go to
 
 Here is the step file: https://github.com/Ninjadude01/Spotify-Display-/releases/download/Tag/Spotify.Display.Case.File.step
 
-https://github.com/Ninjadude01/Spotify-Display-/blob/88bcfe5ba8ba5ae39f8b678f8cd81ed770b45604/Screenshot%202026-03-14%20152833.png
+Front of display: https://github.com/Ninjadude01/Spotify-Display-/blob/88bcfe5ba8ba5ae39f8b678f8cd81ed770b45604/Screenshot%202026-03-14%20152833.png
 
-
-
+Back of display: https://github.com/Ninjadude01/Spotify-Display-/blob/88bcfe5ba8ba5ae39f8b678f8cd81ed770b45604/Screenshot%202026-03-14%20152826.png
 
