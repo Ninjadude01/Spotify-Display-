@@ -6,6 +6,8 @@ No BOM is included as I have all the materials I need
 
 Here is the step file: https://github.com/Ninjadude01/Spotify-Display-/releases/download/Tag/Spotify.Display.Case.File.step
 
+PCB used: https://github.com/Ninjadude01/Spotify-Display-/blob/c7e4f29abb1b1ffb591449525ce249cd210277b6/Screenshot%202026-03-15%20160731.png
+
 Front of display: https://github.com/Ninjadude01/Spotify-Display-/blob/88bcfe5ba8ba5ae39f8b678f8cd81ed770b45604/Screenshot%202026-03-14%20152833.png
 
 Back of display: https://github.com/Ninjadude01/Spotify-Display-/blob/88bcfe5ba8ba5ae39f8b678f8cd81ed770b45604/Screenshot%202026-03-14%20152826.png
