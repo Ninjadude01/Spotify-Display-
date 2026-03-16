@@ -6,6 +6,7 @@ Here is the PCB I used (ESP32 Devkit v1):
 ![PCB](Pictures%20of%20Project/Screenshot%202026-03-15%20160731.png)
 
 Here is the Front of the display:
+![Front](Pictures%20of%20Project/Screenshot%202026-03-16%20094625.png)
 
 Here is the back of the display:
 
