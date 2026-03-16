@@ -9,6 +9,8 @@ Here is the Front of the display:
 ![Front](Pictures%20of%20Project/Screenshot%202026-03-16%20094625.png)
 
 Here is the back of the display:
+![Back](Pictures%20of%20Project/Screenshot%202026-03-16%20094649.png)
+
 
 BOM:
 |Item|Part Name               |Quantity|Description    |Cost  |Links:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |FIELD7|FIELD8|FIELD9|
