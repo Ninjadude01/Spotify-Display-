@@ -6,10 +6,8 @@ Here is the PCB I used (ESP32 Devkit v1):
 ![PCB](Pictures%20of%20Project/Screenshot%202026-03-15%20160731.png)
 
 Here is the Front of the display:
-![Back of Display](Pictures%20of%20Project/Screenshot%202026-03-14%20152833.png)
 
 Here is the back of the display:
-![Front of Display](Pictures%20of%20Project/Screenshot%202026-03-14%20152826.png)
 
 BOM:
 |Item|Part Name               |Quantity|Description    |Cost  |Links:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |FIELD7|FIELD8|FIELD9|
